@@ -1,2 +1,0 @@
-C1-Crash-Course-On-Python\Wordcloud\venv
-C1-Crash-Course-On-Python\Wordcloud\workspace.code-workspace
