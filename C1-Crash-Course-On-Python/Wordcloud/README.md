@@ -65,3 +65,7 @@ Create a "word cloud" from a text by procssing the text and return a dictionary 
 - Create a set to store the uninteresting words
 - Create a dictionary that uses a word as a key and frequencies of the word as a value
 - Use WordCloud framework to generate a image of world cloud
+  
+> Output - 
+
+ ![wordcloud](/assets/wordcloud.png)
