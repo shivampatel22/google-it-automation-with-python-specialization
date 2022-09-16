@@ -1,0 +1,7 @@
+Error,Count,Error Code
+Timeout while retrieving information,15,ERR4
+Connection to DB failed,13,ERR6
+Tried to add information to closed ticket,12,ERR3
+Permission denied while closing ticket,10,ERR2
+The ticket was modified while updating,9,ERR1
+Ticket,7,ERR5
