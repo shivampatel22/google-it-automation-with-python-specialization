@@ -8,7 +8,7 @@ One of the servers used by your company runs a service called ticky.
 This service is an internal ticketing system used by a lot of different teams in the company to manage their work. 
 The service logs a bunch of events to syslog, both when it runs successfully and when it encounters errors. 
 Developers of the service are asking for your help with getting some information out of those logs, to better understand how the software is being used and how to improve it.
-*So for your final project in this course, you'll write some automation scripts that will process the system log and generate a bunch of reports based on the information extracted from log files.*
+**So for your final project in this course, you'll write some automation scripts that will process the system log and generate a bunch of reports based on the information extracted from log files.**
 
 Requirement
 -----------
@@ -40,3 +40,10 @@ Approach
 - Write a script to process log file and extract user information and error/info details from log file.
 - Write the filtered out data to 2 csv files - user stats, error message.
 - Read the 2 csv files using python script and convert the csv data to  separate html files. 
+  
+> HTML OUTPUT-
+- USER STATS - 
+  ![user_stats](/assets/user_stats.PNG)
+  
+- ERROR MESSAGE - 
+  ![error_msg](/assets/error_message.PNG)
