@@ -22,6 +22,12 @@ Topics covered
     - Expensive Loops
     - Parallelizing Operations
 - Programs Crash
+    - Internal Server Error
+    - Accessing Invalid Memory
+    - Unhandled Errors and Exceptions
+    - Debugging a Segmentation Fault
+    - Crashes in Complex Systems
+    - Communication and Documentation During Incidents
 - Postmortems
 - Managing Computer Resources
 
