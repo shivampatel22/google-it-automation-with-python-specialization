@@ -16,3 +16,8 @@ Table of Contents
 - [Troubleshooting and Debugging Techniques](https://github.com/shivampatel22/google-it-automation-with-python-specialization/tree/main/C4-Troubleshooting-and-debugging-techniques)
 - [Configuration Management and the Cloud](https://github.com/shivampatel22/google-it-automation-with-python-specialization/tree/main/C5-Configuration-management-and-the-cloud)
 - [Automating Real-World Tasks with Python](https://github.com/shivampatel22/google-it-automation-with-python-specialization/tree/main/C6-Automating-real-world-tasks-with-python)
+
+Credits
+=======
+
+Coursera - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
